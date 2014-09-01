@@ -25,7 +25,7 @@ int entry=0;
 Set hjava;
 Set hweb;
 Set hcelular;
-Array arrayjava= new Array();
+//Array arrayjava= new Array();
 
 
     int seleccion = JOptionPane.showOptionDialog(
@@ -162,7 +162,7 @@ hcelular= factory.getSet(entry) ;
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
-        arrayjava =hjava.toArray()
+        //arrayjava =hjava.toArray()
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
